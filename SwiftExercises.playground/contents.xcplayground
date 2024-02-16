@@ -3,5 +3,6 @@
     <pages>
         <page name='PropertyObservers'/>
         <page name='Protocols'/>
+        <page name='Enumerations'/>
     </pages>
 </playground>
